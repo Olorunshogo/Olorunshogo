@@ -1,8 +1,24 @@
-Hi. I'm Olorunshogo Moses.
-I'm interested in being a full stack web developer.
-I'm currently learning JavaScript.
-- 💞️ I’m looking to collaborate on ...
-- One of the ways I can be contacted is via this mail: shownzy001@gmail.com
+# 👋 I'm Olorunshogo Moses.
+💻 Web developer in training | Passionate about JavaScript and programming.
+
+## 📌 Skills
++ JavaScript (ES6+), HTML, CSS
++ TailwindCSS
++ Git, GitHub
++ Vue
++ NUXT (beginning)
+
+## 📚 Currently learning
++ NUXT
+
+---
+🔍 Looking for opportunities to learn and collaborate on open-source projects.
+📫 C**ontáctame:**
+- [LinkedIn](https://www.linkedin.com/in/olorunshogo-bamtefa-0839601b4/)
+- Email: shownzy001@gmail.com
+
+
+"Learning is a continuous process" 🚀
 
 <!---
 Olorunshogo/Olorunshogo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
