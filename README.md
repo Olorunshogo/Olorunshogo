@@ -1,12 +1,12 @@
 # 👋 I'm Olorunshogo Moses.
-💻 Web developer in training | Passionate about JavaScript and programming.
+💻 Frontend Web developer in training | Passionate about JavaScript and programming.
 
 ## 📌 Skills
 + JavaScript (ES6+), HTML, CSS
 + TailwindCSS
 + Git, GitHub
 + Vue
-+ NUXT (beginning)
++ NUXT
 
 ## 📚 Currently learning
 + NUXT
