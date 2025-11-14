@@ -1,15 +1,17 @@
 # 👋 I'm Olorunshogo Moses.
-💻 Frontend Web developer in training | Passionate about JavaScript and programming.
+💻 Frontend Web developer | Passionate about Rust and programming.
 
 ## 📌 Skills
++ Git, GitHub
 + JavaScript (ES6+), HTML, CSS
 + TailwindCSS
-+ Git, GitHub
 + Vue
 + NUXT
++ React
++ Nextjs
 
 ## 📚 Currently learning
-+ NUXT
++ Rust
 
 ---
 🔍 Looking for opportunities to learn and collaborate on open-source projects.
